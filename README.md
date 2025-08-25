@@ -82,7 +82,7 @@ hobbies: ["Coding", "Problem Solving", "Listening to Music", "YouTube"]
 </div>
 
 <div align="center">
-  <a href="https://github.com/Anurag/codeMentor-ai">
+  <a href="https://codementor-ai-production.up.railway.app/">
    <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/9b465e91-adad-4114-a8ae-f5ee22a80350" />
   </a>
 </div>
@@ -91,7 +91,7 @@ hobbies: ["Coding", "Problem Solving", "Listening to Music", "YouTube"]
   <h3>💻 codeMentor-ai</h3>
   <p>🤖 An AI-powered coding mentor platform built with Node.js</p>
   <p>🌟 Features: Real-time code assistance, Discord bot integration, and intelligent mentoring</p>
-  <p>🔗 <a href="https://codementor-ai-dashboard.vercel.app/" target="_blank">Live Demo</a> | <a href="https://github.com/Anurag/codeMentor-ai" target="_blank">Source Code</a></p>
+  <p>🔗 <a href="https://codementor-ai-production.up.railway.app/" target="_blank">Live Demo</a> | <a href="https://github.com/anurag12sharma/codeMentor-ai" target="_blank">Source Code</a></p>
 </div>
 
 ---
@@ -102,11 +102,8 @@ hobbies: ["Coding", "Problem Solving", "Listening to Music", "YouTube"]
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anurag)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/anurag)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/anurag)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/anurag)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@anurag)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anurag12sharma/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anurag12sharma/)
 
 </div>
 

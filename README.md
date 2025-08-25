@@ -1,123 +1,202 @@
+# <div align="center">👋 Hey there! I'm Anurag</div>
+
 <div align="center">
 
-<!-- Animated SVG Banner -->
-<svg width="500" height="120" viewBox="0 0 500 120" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="neonGlow" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#00ffff;stop-opacity:1" />
-      <stop offset="50%" style="stop-color:#0080ff;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#00ffff;stop-opacity:1" />
-    </linearGradient>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
-      <feMerge> 
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-  </defs>
-  <text x="250" y="70" font-family="'Courier New', monospace" font-size="48" font-weight="bold" 
-        fill="url(#neonGlow)" filter="url(#glow)" text-anchor="middle">
-    ANURAG SHARMA
-    <animate attributeName="opacity" values="0.8;1;0.8" dur="2s" repeatCount="indefinite"/>
-  </text>
-</svg>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Computer+Science+Engineering+Student;Passionate+Full+Stack+Developer;Competitive+Programming+Enthusiast;Building+the+Future+with+Technology)](https://git.io/typing-svg)
 
-<!-- Glass Card About Section -->
-<div style="background: rgba(0,0,0,0.3); backdrop-filter: blur(10px); border: 1px solid rgba(0,255,255,0.2); border-radius: 20px; padding: 30px; margin: 30px 0; box-shadow: 0 8px 32px rgba(0,255,255,0.1);">
-  <h2 style="color: #00ffff; font-family: 'Courier New', monospace; text-align: center; margin-bottom: 20px; text-shadow: 0 0 10px #00ffff;">🚀 About Me</h2>
-  <p style="color: #ffffff; font-size: 16px; line-height: 1.6; text-align: center;">
-    💻 Full Stack Developer | 🎓 CS Undergrad | 🌟 Building digital experiences<br/>
-    📍 Delhi, India | 🎯 Simplifying complexity through code<br/>
-    ⚡ Passionate about creating value through technology
-  </p>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 </div>
 
 ---
 
-<!-- Neon Border Divider -->
-<div style="height: 2px; background: linear-gradient(90deg, transparent, #00ffff, transparent); margin: 40px 0; box-shadow: 0 0 10px #00ffff;"></div>
-
-## 🛠️ Tech Arsenal
-
-<div align="center" style="margin: 30px 0;">
-  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=000000)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=000000)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=000000)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=000000)
-
+<div align="center">
+  <h2>🚀 About Me</h2>
 </div>
 
-<!-- Neon Border Divider -->
-<div style="height: 2px; background: linear-gradient(90deg, transparent, #00ffff, transparent); margin: 40px 0; box-shadow: 0 0 10px #00ffff;"></div>
-
-## 📊 GitHub Analytics
+```yaml
+name: Anurag
+located_in: New Delhi, India
+current_job: Computer Science Engineering Student
+education: ["Self-Taught Developer", "CS Engineering"]
+company: Building @ codeMentor-ai
+fields_of_interests: ["Web Development", "AI/ML", "Competitive Programming", "Open Source"]
+technical_background: ["Full Stack Development", "Node.js", "React", "Discord Bot Development"]
+currently_learning: ["Advanced Algorithms", "System Design", "Cloud Technologies"]
+hobbies: ["Coding", "Problem Solving", "Listening to Music", "YouTube"]
+```
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anurag12sharma&show_icons=true&theme=dark&bg_color=0D1117&border_color=00ffff&icon_color=00ffff&text_color=ffffff&title_color=00ffff&hide_border=false&border_radius=10" alt="GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=anurag12sharma&theme=dark&background=0D1117&border=00ffff&stroke=00ffff&ring=00ffff&fire=ff6b6b&currStreakLabel=ffffff&sideLabels=00ffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" alt="GitHub Streak" />
+  <h3>🎯 Current Focus</h3>
+  <p>💡 Working on <strong>codeMentor-ai</strong> - An AI-powered coding mentor platform</p>
+  <p>🔍 Actively participating in competitive programming contests</p>
+  <p>🌱 Learning advanced algorithms and system design</p>
+  <p>🎖️ Building projects that make a difference</p>
 </div>
 
-<!-- Neon Border Divider -->
-<div style="height: 2px; background: linear-gradient(90deg, transparent, #00ffff, transparent); margin: 40px 0; box-shadow: 0 0 10px #00ffff;"></div>
+---
 
-## 🎯 Featured Projects
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;">
-
-<!-- Project 1 -->
-<div style="background: rgba(0,0,0,0.4); backdrop-filter: blur(15px); border: 1px solid rgba(0,255,255,0.3); border-radius: 15px; padding: 20px; width: 280px; box-shadow: 0 8px 32px rgba(0,255,255,0.15);">
-  <h3 style="color: #00ffff; margin: 0 0 10px 0; font-family: 'Courier New', monospace;">🎨 Portfolio Website</h3>
-  <p style="color: #cccccc; font-size: 14px; line-height: 1.5; margin: 0;">Modern responsive portfolio built with React & TailwindCSS featuring dark theme and smooth animations.</p>
+<div align="center">
+  <h2>🛠️ Tech Arsenal</h2>
 </div>
 
-<!-- Project 2 -->
-<div style="background: rgba(0,0,0,0.4); backdrop-filter: blur(15px); border: 1px solid rgba(0,255,255,0.3); border-radius: 15px; padding: 20px; width: 280px; box-shadow: 0 8px 32px rgba(0,255,255,0.15);">
-  <h3 style="color: #00ffff; margin: 0 0 10px 0; font-family: 'Courier New', monospace;">⚡ Task Manager</h3>
-  <p style="color: #cccccc; font-size: 14px; line-height: 1.5; margin: 0;">Full-stack productivity app with Node.js backend, real-time updates, and intuitive user interface.</p>
+<div align="center">
+
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Frontend & Backend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Databases & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 </div>
 
-<!-- Project 3 -->
-<div style="background: rgba(0,0,0,0.4); backdrop-filter: blur(15px); border: 1px solid rgba(0,255,255,0.3); border-radius: 15px; padding: 20px; width: 280px; box-shadow: 0 8px 32px rgba(0,255,255,0.15);">
-  <h3 style="color: #00ffff; margin: 0 0 10px 0; font-family: 'Courier New', monospace;">🤖 Code Assistant</h3>
-  <p style="color: #cccccc; font-size: 14px; line-height: 1.5; margin: 0;">AI-powered development tool that helps optimize code structure and suggests improvements.</p>
+---
+
+<div align="center">
+  <h2>🚀 Featured Project</h2>
 </div>
 
-</div>
-
-<!-- Neon Border Divider -->
-<div style="height: 2px; background: linear-gradient(90deg, transparent, #00ffff, transparent); margin: 40px 0; box-shadow: 0 0 10px #00ffff;"></div>
-
-## 🌐 Connect With Me
-
-<div align="center" style="margin: 30px 0;">
-  <a href="https://www.linkedin.com/in/anurag12sharma/" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn" />
+<div align="center">
+  <a href="https://github.com/Anurag/codeMentor-ai">
+   <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/9b465e91-adad-4114-a8ae-f5ee22a80350" />
   </a>
-  <a href="mailto:your.email@gmail.com" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email" />
-  </a>
-  <a href="https://github.com/anurag12sharma" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub" />
-  </a>
 </div>
 
-<!-- Neon Border Divider -->
-<div style="height: 2px; background: linear-gradient(90deg, transparent, #00ffff, transparent); margin: 40px 0; box-shadow: 0 0 10px #00ffff;"></div>
-
-<!-- Motivational Quote Section -->
-<div style="background: rgba(0,0,0,0.2); backdrop-filter: blur(8px); border: 1px solid rgba(0,255,255,0.1); border-radius: 25px; padding: 25px; margin: 30px 0; box-shadow: 0 6px 20px rgba(0,255,255,0.08);">
-  <p style="color: #00ffff; font-size: 18px; font-style: italic; text-align: center; margin: 0; font-family: 'Georgia', serif; text-shadow: 0 0 5px #00ffff;">
-    "Code is like humor. When you have to explain it, it's bad." ✨
-  </p>
-  <p style="color: #888888; font-size: 14px; text-align: center; margin: 10px 0 0 0;">— Cory House</p>
+<div align="center">
+  <h3>💻 codeMentor-ai</h3>
+  <p>🤖 An AI-powered coding mentor platform built with Node.js</p>
+  <p>🌟 Features: Real-time code assistance, Discord bot integration, and intelligent mentoring</p>
+  <p>🔗 <a href="https://codementor-ai-dashboard.vercel.app/" target="_blank">Live Demo</a> | <a href="https://github.com/Anurag/codeMentor-ai" target="_blank">Source Code</a></p>
 </div>
 
-<div align="center" style="margin: 40px 0;">
-  <img src="https://komarev.com/ghpvc/?username=anurag12sharma&style=flat-square&color=00ffff&label=Profile+Views" alt="Profile Views" />
+---
+
+<div align="center">
+  <h2>📫 Connect With Me</h2>
 </div>
 
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anurag)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/anurag)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/anurag)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/anurag)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@anurag)
+
 </div>
+
+---
+
+<div align="center">
+  <h2>💭 Random Dev Quote</h2>
+</div>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</div>
+
+---
+
+<div align="center">
+  <h3>🎯 2025 Goals</h3>
+</div>
+
+```yaml
+goals_2025:
+  - Complete codeMentor-ai and launch publicly
+  - Contribute to 50+ open source projects
+  - Achieve Expert level on CodeChef
+  - Build 10 full-stack applications
+  - Learn system design & cloud architecture
+  - Secure internship at top tech company
+  - Help 100+ developers through codeMentor-ai
+  - Create educational content on YouTube
+```
+
+---
+
+<div align="center">
+
+### ✨ "Building the future, one line of code at a time" ✨
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+connect+and+build+amazing+things!;Happy+Coding!+🚀)](https://git.io/typing-svg)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Anurag&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Anurag?label=Followers&style=flat-square&color=blue" alt="Followers" />
+</p>
+
+</div>
+
+<!-- GitHub Snake Animation Workflow -->
+<!-- Note: To enable the snake animation, create a GitHub Action workflow file in .github/workflows/snake.yml -->
+
+<!--
+To set up the snake animation:
+1. Create .github/workflows/snake.yml in your repository
+2. Add the following content:
+
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # Runs every 12 hours
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.gif
+            
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+-->

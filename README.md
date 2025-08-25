@@ -147,11 +147,6 @@ goals_2025:
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Anurag&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Anurag?label=Followers&style=flat-square&color=blue" alt="Followers" />
-</p>
-
 </div>
 
 <!-- GitHub Snake Animation Workflow -->
